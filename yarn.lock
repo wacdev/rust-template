@@ -172,15 +172,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@w5/avat@npm:^0.0.9":
-  version: 0.0.9
-  resolution: "@w5/avat@npm:0.0.9"
-  dependencies:
-    ava: ^5.3.0
-  checksum: 41f3ed76e58dabae11e527a24fcc2e72d0cf338b5be66b2e149065e89108c9238f30de495c20049ba661ef51066d905bb047c206f478b610904c426860b977fd
-  languageName: node
-  linkType: hard
-
 "@w5/camel@npm:^0.0.1":
   version: 0.0.1
   resolution: "@w5/camel@npm:0.0.1"
@@ -268,7 +259,6 @@ __metadata:
   resolution: "@w5/rust-template@workspace:."
   dependencies:
     "@napi-rs/cli": ^2.16.1
-    "@w5/avat": ^0.0.9
     "@w5/coffee_plus": ^0.0.13
     "@w5/loader": ^0.0.3
     "@w5/mdt": ^0.0.16
