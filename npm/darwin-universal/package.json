@@ -1,0 +1,15 @@
+{
+  "name": "@w5/rust-template-darwin-universal",
+  "version": "0.0.0",
+  "os": [
+    "darwin"
+  ],
+  "main": "rust-template.darwin-universal.node",
+  "files": [
+    "rust-template.darwin-universal.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}
