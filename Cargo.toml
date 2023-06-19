@@ -2,6 +2,10 @@
 edition = "2021"
 name = "w5_rust-template"
 version = "0.0.0"
+license = "SSPL-1.0"
+homepage = "https://github.com/wactax/rust-template"
+repository = "https://github.com/wactax/rust-template.git"
+description = "a rust project template for napi-rs"
 
 [lib]
 crate-type = ["cdylib"]
